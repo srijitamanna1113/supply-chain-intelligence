@@ -7,8 +7,10 @@ This project analyzes global supply chain operations to identify delivery delays
 - Python
 - Pandas
 - NumPy
+- matplotlib
+- seaborne
 - Streamlit
-- Plotly
+
 
 ## Key Analysis
 - Delivery Performance Analysis

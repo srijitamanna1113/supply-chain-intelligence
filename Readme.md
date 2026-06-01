@@ -24,7 +24,7 @@ This project analyzes global supply chain operations to identify delivery delays
 - Shipping Mode Comparison
 - Regional Performance Analysis
 - Data Explorer
-
+streamlit app- http://192.168.18.32:8501
 ## Project Structure
 
 ```text
